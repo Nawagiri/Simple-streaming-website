@@ -1,2 +1,3 @@
-# Site-Shibaflix
-A simple site in HTML and CSS
+#Shibaflix
+
+A simple site coding in 1 hour in html css

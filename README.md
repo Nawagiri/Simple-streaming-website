@@ -2,7 +2,7 @@
 
 ## A simple website coding in 1 hour in html css
 
-###i dont made the slider...
+### I dont made the slider...
 
 <img alt="SHIBA" src="https://media.giphy.com/media/exyXFri9knHjLoLObz/giphy.gif" width="60%">
 
